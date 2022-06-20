@@ -10,14 +10,16 @@ const AboutMe = () => {
                 Tentang Saya
                 </SectionTitle>
                 <SectionText>
-                Saya lahir di Boyolali pada tanggal 23 Februari 2000 (21 Tahun).
+                Saya lahir di Boyolali pada tanggal 23 Februari 2000.
                 Sekarang saya tinggal di Bekasi Selatan.
-                Saya memiliki Hobby Fotografi, Videografi, Riding Motorsport, dan juga bermain Games pada waktu luang.
-                Kelebihan yang saya miliki adalah rasa ingin tahu yang tinggi, 
+                Saya memiliki Hobby Videografi, Riding Motorsport, dan juga bermain Games pada waktu luang.
+                Setelah lulus kuliah saya mengisi kegiatan saya mengikuti Course berbayar maupun gratis yang disediakan pemerintah,
+                selain kegiatan tersebut saya juga Freelance membuat Website, dan memanfaatkan teknologi Blockchain untuk menghasilkan uang.
+                <br></br>Kelebihan yang saya miliki adalah rasa ingin tahu yang tinggi, 
                 dapat beradaptasi dengan cepat, 
                 dan dapat berkomunikasi dalam team dengan baik.
                 Kelemahan yang saya miliki adalah takut akan hal yang belum pernah saya ketahui,
-                tetapi dengan kelemahan itu saya dapat segera mencari informasi hal yang belum saya ketahui.
+                tetapi dengan kelemahan itu membuat saya akan merasa tertantang dengan hal baru.
                 </SectionText>
             </LeftSection>
         </Section>
